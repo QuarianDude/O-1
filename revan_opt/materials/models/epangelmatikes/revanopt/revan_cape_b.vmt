@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models\epangelmatikes\revanopt\revan_cape_b"
+	"$bumpmap" 				"models\epangelmatikes\revanopt\revan_cape_n"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.01 0.01 0.01]"
+	"$envmapfresnel" "1"
+	"$normalmapalphaenvmapmask"	"1"
+
+	$rimlight               1
+	$rimlightexponent       20
+	$rimlightboost          1
+
+	"$nocull"	"1"
+
+	"$alphatest"	"1"
+        "$alphatestreference" ".5"
+        "$allowalphatocoverage" "1"
+
+}

@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models\epangelmatikes\revanopt\revan_hand"
+	"$bumpmap" 				"models\epangelmatikes\revanopt\revan_hand_n"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.05 0.05 0.05]"
+	"$envmapfresnel" "1"
+	"$normalmapalphaenvmapmask"	"1"
+
+
+
+
+}
